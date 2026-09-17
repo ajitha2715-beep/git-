@@ -1,0 +1,21 @@
+git commands
+git --version -shows the installed git version
+git config -configures git settings
+git init -initialize repository
+git status -view repository status
+git add <file> -stage changes
+git add .-stage all changes
+git commit -m"message"-commit changes
+git branch -list branche
+git branch<branch>-create branch
+git checkout <branch> -switch to branch
+git remove -v -view remotes
+git pull origin <branch> -pull changes
+git push origin <branch> -push changes
+git log -view commit history
+git config --global user.name"name"-set global username
+git config --globl user.email"emil" -set global email
+git clone<repro_url> -copies a github repository to ypur computer
+git help -show git help and document
+git remote ad origin<URL> -connects  your local project to github
+ 
