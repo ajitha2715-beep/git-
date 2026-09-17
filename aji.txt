@@ -1,0 +1,78 @@
+ls -Lists of files and folders
+cd -changes directory
+mkdir -creates a new directory
+rmdir -Removes an empty directory
+pwd -shows the current directory location
+touch -creates an new empty file
+cp -copies files or folders
+mv -Moves or rename files or folders
+rm -Deletes files
+cat -Displays file contents
+less -views a file page by page
+more -views file content page by page
+head -shows the beginning of a file
+tail -shows the end of file
+echo -prints text to the terminal
+nano -opens a simple text editor
+vim - opens the vim text editor
+clear -clears the terminal screen
+history -shows previouslybused commands
+man -shows a commands manual
+whoami -shows the current username
+who -shows logged in users
+date -Displays the current date and time
+cal -Displays a calender
+uname -shows system information
+hostname -shows the computers hostname
+df -shows disk space usage
+du -shows file,directory size
+vi,jed -text editors
+free -shows memory/RAM usage
+top -Displays running proceses
+ps -shows running processes
+kill -stop the process
+ping -Tests network connectivity
+curl -Transfers data from/to a URL
+wget -Downloads files from the internet
+scp - copies files between computers
+find -searches  for files/folders
+grep -searches text inside files
+sort -rearrange file content in order
+locate -it find were the file is locate
+wc -counts lines,words and characters
+tee -Displays and saves output
+chmod -changes file permissions
+tar -creates/extracts tar archives
+chown -changes file owner
+zip -creates ZIP archives
+unzip -extracts ZIP files
+gzip -compresses files
+sudo -Runs a command with administrator privileges
+dnf -Fedoras package manager
+systemctl -controls system services
+shutdown -shuts down the computer
+reboot - restarts the computer
+diff -compare two files
+ls -a show the hidden file
+cd - - returns to the current users home directory
+cd .. - moves of one directory
+rm -r - delete directory recursively
+file -identify file type
+sed -stream editor for search and replace
+awk -pattern scanning and text processing
+cut -extract sections from each line
+su -switch user
+useradd,userder and passwd -manage user account
+htop -interactive process viewer
+time -measure command execution time
+watch -repeat a command at an interval
+jobs -list shell jobs
+rsync -sync files/directories between locations
+ip -manage network parameters
+netstart -display network configuration
+traceroute -trace a packets path
+nslookup -query DNSrecords
+dig -detailed DNS lookup
+ln -create file/directory links
+alias and unalias -name your own shortcuts
+
